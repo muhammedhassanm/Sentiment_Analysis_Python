@@ -1,0 +1,9 @@
+https://towardsdatascience.com/nlp-part-3-exploratory-data-analysis-of-text-data-1caa8ab3f79d
+https://towardsdatascience.com/sentiment-analysis-introduction-to-naive-bayes-algorithm-96831d77ac91
+https://medium.com/analytics-vidhya/nlp-getting-started-with-sentiment-analysis-126fcd61cc4a
+https://towardsdatascience.com/tf-idf-simplified-aba19d5f5530
+https://github.com/jayashree8/Machine_learning_PCA
+https://medium.com/analytics-vidhya/a-complete-guide-on-dimensionality-reduction-62d9698013d2
+https://medium.com/analytics-vidhya/principal-component-analysis-pca-558969e63613#:~:text=Principal%20Component%20Analysis(PCA)%3A,loss%20of%20any%20important%20information.
+https://medium.com/@srishtisawla/introduction-to-naive-bayes-for-classification-baefefb43a2d
+https://medium.com/analytics-vidhya/evaluation-metrics-for-classification-models-e2f0d8009d69
